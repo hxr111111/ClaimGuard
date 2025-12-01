@@ -1,0 +1,5 @@
+{
+  "name": "ClaimGuard",
+  "description": "Enterprise-grade policy-aware expense management system for Avo.ai.",
+  "requestFramePermissions": []
+}
