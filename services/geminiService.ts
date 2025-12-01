@@ -1,7 +1,7 @@
 import { GoogleGenAI } from "@google/genai";
 import { ExpenseLineItem } from "../types";
 
-const apiKey = process.env.API_KEY || '';
+const apiKey = process.env.API_KEY || 'AIzaSyBou1aBCysx0POxT1CdJfd0wr8f_pZd8bg';
 const ai = new GoogleGenAI({ apiKey });
 
 // Helper to convert File to Base64
